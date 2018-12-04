@@ -1,4 +1,4 @@
-# IoT-181-Fall-2018
+# BKU-HCMUT-IoT-181-Fall-2018
 
 ## Group 5
 
