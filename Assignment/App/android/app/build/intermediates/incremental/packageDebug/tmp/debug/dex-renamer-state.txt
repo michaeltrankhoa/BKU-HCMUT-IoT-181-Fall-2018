@@ -1,0 +1,4 @@
+#Wed Dec 05 10:13:34 ICT 2018
+base.0=/Applications/Project/BKU-HCMUT-IoT-181-Fall-2018/Assignment/App/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,4 @@
+#Wed Oct 31 01:51:46 ICT 2018
+base.0=/Applications/Project/IOTAppDemo/android/app/build/intermediates/transforms/dexMerger/release/0
+renamed.0=classes.dex
+path.0=classes.dex
