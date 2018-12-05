@@ -1,0 +1,45 @@
+GET     /users/:id
+
+POST    /users
+    {
+        "_id" : 1,
+        "pvkey" : "",
+        "phone" : "0123456789",
+        "member" : "NORMAL"
+    }
+
+    -> Success: {
+                    "success": "added user 3"
+                }
+
+    -> Fail:    {
+                    "error": "userId 3 is already exist"
+                }
+
+PUT     /users
+
+DELETE  /users/:id
+
+PUT     /users/add-plug
+
+--------------------------------------------
+
+GET     /sockets?id="xxx"&day="dd"&month="mm"&year="yyyy"
+GET     /consumptions/today?plug="xxx"
+GET     /consumptions/statistic?plug="xxx"&duration="ddd"
+
+ddd = [week, month, year]
+
+{
+    list: [
+        {
+            time: 20181101,
+            cons: 60
+        },
+        {
+            time: 20181102,
+            cons: 60
+        },
+        ...
+    ]
+}
