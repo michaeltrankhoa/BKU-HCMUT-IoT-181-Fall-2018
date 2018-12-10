@@ -1,7 +1,5 @@
 # BKU-HCMUT-IoT-181-Fall-2018
-
 ## Group 5
-
 ### Group's members
 
 | Student's Name        | Student's ID |
