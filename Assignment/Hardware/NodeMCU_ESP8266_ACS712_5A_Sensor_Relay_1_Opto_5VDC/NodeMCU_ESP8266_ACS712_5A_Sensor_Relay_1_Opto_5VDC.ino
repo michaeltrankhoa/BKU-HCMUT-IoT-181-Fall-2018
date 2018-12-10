@@ -3,9 +3,9 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "BKHCM_OISP";
-const char* password = "bachkhoaquocte";
-const char* MQTTServer = "192.168.0.111";
+const char* ssid = "Wi-Fi-SSID";
+const char* password = "Wi-Fi-PASSWORD";
+const char* MQTTServer = "Wi-Fi-IP-ADDRESS";
 const int MQTTPort = 1883;
 
 boolean isOff = true;
