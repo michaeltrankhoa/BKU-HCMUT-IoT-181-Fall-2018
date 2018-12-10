@@ -25,5 +25,3 @@ See `Project-Structure.md` for more details. It also provides some intructions t
 
     `npm run gen-apk`
 * The generated APK can be found under `android/app/build/outputs/apk/app-release.apk`
-
-
