@@ -31,18 +31,18 @@ See `Project-Structure.md` for more details. It also provides some intructions t
 ## Login - Sign up
 
 <p align="center">
-  <img src="screenshot/login.png" width="100px;" height="100px;">
-  <img src="screenshot/signup.png" width="100px;" height="100px;">
+  <img src="screenshot/login.png" width="200px;">
+  <img src="screenshot/signup.png" width="200px;">
 </p>
 
 ## Toggle the socket
 
 <p align="center">
-  <img src="screenshot/control.png" width="100px;" height="100px;">
+  <img src="screenshot/control.png" width="200px;">
 </p>
 
 ## Statistic chart
 
 <p align="center">
-  <img src="screenshot/chart.png" width="100px;" height="100px;">
+  <img src="screenshot/chart.png" width="200px;">
 </p>
