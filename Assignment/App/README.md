@@ -25,3 +25,24 @@ See `Project-Structure.md` for more details. It also provides some intructions t
 
     `npm run gen-apk`
 * The generated APK can be found under `android/app/build/outputs/apk/app-release.apk`
+
+# Basic features
+
+## Login - Sign up
+
+<p align="center">
+  <img src="screenshot/login.png" width="100px;" height="100px;">
+  <img src="screenshot/signup.png" width="100px;" height="100px;">
+</p>
+
+## Toggle the socket
+
+<p align="center">
+  <img src="screenshot/control.png" width="100px;" height="100px;">
+</p>
+
+## Statistic chart
+
+<p align="center">
+  <img src="screenshot/chart.png" width="100px;" height="100px;">
+</p>
