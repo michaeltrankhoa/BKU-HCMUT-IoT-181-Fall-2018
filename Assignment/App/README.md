@@ -3,7 +3,7 @@
 
 `sudo npm install -g react-native-cli`
 
-## Open Terminal, then type command to clone this repo:  
+## Open Terminal, then type command to clone this repository (for the latest version):  
 
 `git clone https://github.com/arcanine525/IOT-SmartPlug-Demo` 
 
@@ -11,13 +11,15 @@
 
 `npm install `
 
-## Run and at Android Simulator:
+## Run at Android Simulator:
 
 `react-native run-android`
 
 ## Project structure:
 
-See `Project-Structure.md` for more details. It also provides some intructions to help you maintain this app
+* See `Project-Structure.md` for more details. It also provides some intructions to help you maintain this app
+
+* Go to `/src/Services/Config.js` to change the Server address before run the app
 
 ## Generate APK file: 
 * Copy this file into `android/app`
