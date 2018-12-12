@@ -4,9 +4,9 @@
 #include <PubSubClient.h>
 
 const char* ssid = "Wi-Fi-SSID";
-const char* password = "Wi-Fi-PASSWORD";
-const char* MQTTServer = "Wi-Fi-IP-ADDRESS";
-const int MQTTPort = 1883;
+const char* password = "Wi-Fi-Password";
+const char* MQTTServer = "Wi-Fi-IP-Address"; // using MQTTLens
+const int MQTTPort = 1883; // using MQTTLens
 
 boolean isOff = true;
 double AmpsRMS = 0;
