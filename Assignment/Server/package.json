@@ -24,7 +24,7 @@
   "dependencies": {
     "express": "^4.16.2",
     "ip": "^1.1.5",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "mongoose": "^5.3.7",
     "mqtt": "^2.18.8",
     "socket.io": "^2.0.4"
